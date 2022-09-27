@@ -32,7 +32,28 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.product {
+  background-color: lightpink;
+  padding: 15px;
+  border: 3px solid maroon;
+  margin: 15px;
+  border-radius: 20px;
+
+}
+
+.topu {
+  background-color: rgb(231, 137, 137);
+  padding: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#baby {
+  color: rgb(227, 223, 224);
 }
